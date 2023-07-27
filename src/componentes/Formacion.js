@@ -21,7 +21,7 @@ function Formacion () {
           <br/>
           Continuamos con el curso de Desarrollo Full Stack con Java en el IDE 17 Apache NetBeans, donde también agregamos MySQL Workbench y utilizamos JPA para trabajar con ambos conceptos. <br/>
           <br/>
-          Posteriormente, incorporamos Spring Boot para crear una API REST y también para manejar el frontend utilizando HTML, CSS y JavaScript con la librería de React y el entorno Node.js.
+          Posteriormente, incorporamos Spring Boot para crear una API REST y también para manejar el frontend utilizando HTML, CSS y JavaScript con la librería de React y el entorno Node.js con Visual Studio Code.
           </p> 
             <div className="con-link">
               <a href={certificado} target="_blank" className="alink" > <b>CERTIFICADO PDC</b> </a>

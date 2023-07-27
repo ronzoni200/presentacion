@@ -1,0 +1,66 @@
+.ico{
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 150px;   
+    border: 20px;
+    padding: 10px;
+}
+.conenedor-contacto{
+    min-height: 400px;
+    margin: 20px;
+    padding: 20px;
+    width: 80%;
+    
+    font-size: 20px;    
+    display: flex;
+    background-color: rgb(245, 176, 74);
+    flex-wrap: wrap;
+}
+.contacto{
+    display:block;
+    width: 100%;    
+    border-radius: 10px;
+    align-content: center;
+    justify-content: center;
+    background-color: black;
+    text-align: center;
+}
+.cont{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    flex-direction: column;
+    display: flex;
+    width: 45%;
+    background-color: black;
+    align-items: center;
+    justify-content: center;    
+}
+
+.titulos{
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.link{
+    border-radius: 10px;
+    margin: 10px;
+    background-color: rgb(245, 176, 74) ;
+    color: black;
+    text-align: center;
+}
+.principal{
+    background-color: rgb(245, 176, 74);
+    border: 2px solid black;
+    border-radius: 10px ;
+}
+
+.contenedor-linkedin{
+    background-color: rgb(163, 44, 44);
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    background-color: black;
+}
+

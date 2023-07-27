@@ -4,6 +4,7 @@ import Indice from './componentes/indice';
 import SobreMi from './componentes/Sobre-mi';
 import Presentacion from './componentes/Presentacion.js';
 import Formacion from './componentes/Formacion.js'
+import Contacto from './componentes/Contactos.js';
 
 function App() {
   return (
@@ -11,7 +12,8 @@ function App() {
         <Presentacion/>
         <Indice/> 
         <SobreMi/>
-        <Formacion/>                        
+        <Formacion/>   
+        <Contacto/>                   
     </div>
   );
 }
