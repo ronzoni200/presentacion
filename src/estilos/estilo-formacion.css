@@ -16,8 +16,9 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: yellow;
+    background-color: rgb(245, 176, 74);
     border-radius: 15px 0 0 15px ;   
+    border: 2px solid black;
 }
 .img-formacion{    
     width: 200px;

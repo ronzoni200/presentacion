@@ -5,6 +5,7 @@ import SobreMi from './componentes/Sobre-mi';
 import Presentacion from './componentes/Presentacion.js';
 import Formacion from './componentes/Formacion.js'
 import Contacto from './componentes/Contactos.js';
+import Clic from '../src/contador/componentes/App'
 
 function App() {
   return (
@@ -12,8 +13,10 @@ function App() {
         <Presentacion/>
         <Indice/> 
         <SobreMi/>
-        <Formacion/>   
-        <Contacto/>                   
+        <Formacion/> 
+        <Clic/>  
+        <Contacto/>
+                           
     </div>
   );
 }

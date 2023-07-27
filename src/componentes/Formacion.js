@@ -17,7 +17,7 @@ function Formacion () {
           <h2 className="sub-titulo"> Egg Cooperation </h2>
           <p className="info"> Comenzó este curso con una introducción a la Programación desde Cero (PDC) utilizando PSeInt. <br/>
           <br/>
-          En este curso, se nos enseñaron los fundamentos de la programación, la lógica algorítmica y el pensamiento lógico-matemático, con una duración total de 81 horas. <br/>
+          En esta primera parte, se nos enseñaron los fundamentos de la programación, la lógica algorítmica y el pensamiento lógico-matemático, con una duración total de 81 horas. <br/>
           <br/>
           Continuamos con el curso de Desarrollo Full Stack con Java en el IDE 17 Apache NetBeans, donde también agregamos MySQL Workbench y utilizamos JPA para trabajar con ambos conceptos. <br/>
           <br/>
