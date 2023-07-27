@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ronzoni200.github.io/presentacion/static/css/main.397cd35c.css",
+    "main.js": "/ronzoni200.github.io/presentacion/static/js/main.0cf2da69.js",
+    "static/media/certificado-desde-cero.pdf": "/ronzoni200.github.io/presentacion/static/media/certificado-desde-cero.2999cbf2e7dae68154f3.pdf",
+    "static/media/gus.jpg": "/ronzoni200.github.io/presentacion/static/media/gus.b5b1902280d86a7bfdc7.jpg",
+    "static/media/correo.png": "/ronzoni200.github.io/presentacion/static/media/correo.bc00ecd3371480db49b3.png",
+    "static/media/pc.png": "/ronzoni200.github.io/presentacion/static/media/pc.830d87026be4d21d4222.png",
+    "static/media/whatsapp-fill.svg": "/ronzoni200.github.io/presentacion/static/media/whatsapp-fill.d9e9da2271e797c3fffe7aff1478c00a.svg",
+    "index.html": "/ronzoni200.github.io/presentacion/index.html",
+    "main.397cd35c.css.map": "/ronzoni200.github.io/presentacion/static/css/main.397cd35c.css.map",
+    "main.0cf2da69.js.map": "/ronzoni200.github.io/presentacion/static/js/main.0cf2da69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.397cd35c.css",
+    "static/js/main.0cf2da69.js"
+  ]
+}
