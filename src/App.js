@@ -6,17 +6,20 @@ import Presentacion from './componentes/Presentacion.js';
 import Formacion from './componentes/Formacion.js'
 import Contacto from './componentes/Contactos.js';
 import Clic from '../src/contador/componentes/App'
-
+import Calculadora from './calculadora/App.js'
 function App() {
   return (
-    <div className="App">
+    
+    <div className="App">      
         <Presentacion/>
         <Indice/> 
-        <SobreMi/>
+        <SobreMi/>        
         <Formacion/> 
+      <div className='ejercicios'>
         <Clic/>  
-        <Contacto/>
-                           
+        <Calculadora/> 
+      </div>
+        <Contacto/>               
     </div>
   );
 }

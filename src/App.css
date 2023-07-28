@@ -3,3 +3,8 @@
   margin: 1px;
   background-color: rgb(210, 191, 128);
 }
+.ejercicios{
+  display: flex;
+  width: 100%;
+  height: 750px;
+}

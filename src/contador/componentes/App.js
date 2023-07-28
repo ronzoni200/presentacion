@@ -15,10 +15,10 @@ function Clic() {
   }
 
   return (
-    <div className="contenedor-contador">      
+    <div id='pra' className="contenedor-contador">      
       
       <div className='titulo-contador'>
-        <h1 id='pra'> -- Contador de Clic -- </h1>
+        <h1 id='pra' className='titulo-clic'> -- Contador de Clic -- </h1>
       </div>                
       
       <div className='contenedor-principal'>
