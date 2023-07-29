@@ -1,7 +1,12 @@
 * {
   padding: 1px;
   margin: 1px;
-  background-color: rgb(210, 191, 128);
+ 
+}
+body{
+  background-image: url(./imagenes/fondo-html.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .ejercicios{
   display: flex;

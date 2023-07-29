@@ -10,9 +10,10 @@ import Calculadora from './calculadora/App.js'
 function App() {
   return (
     
-    <div className="App">      
+    <div className="App">  
+        <Indice/>     
         <Presentacion/>
-        <Indice/> 
+        
         <SobreMi/>        
         <Formacion/> 
       <div className='ejercicios'>
